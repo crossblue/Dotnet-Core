@@ -1,0 +1,13 @@
+C:\Desktop\Full Stack Developement SDGKU\FSDI Session 110 DotNet Core\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+C:\Desktop\Full Stack Developement SDGKU\FSDI Session 110 DotNet Core\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+C:\Desktop\Full Stack Developement SDGKU\FSDI Session 110 DotNet Core\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+C:\Desktop\Full Stack Developement SDGKU\FSDI Session 110 DotNet Core\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+C:\Desktop\Full Stack Developement SDGKU\FSDI Session 110 DotNet Core\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+C:\Desktop\Full Stack Developement SDGKU\FSDI Session 110 DotNet Core\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+C:\Desktop\Full Stack Developement SDGKU\FSDI Session 110 DotNet Core\Lab1\obj\Debug\netcoreapp3.1\Lab1.csprojAssemblyReference.cache
+C:\Desktop\Full Stack Developement SDGKU\FSDI Session 110 DotNet Core\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+C:\Desktop\Full Stack Developement SDGKU\FSDI Session 110 DotNet Core\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+C:\Desktop\Full Stack Developement SDGKU\FSDI Session 110 DotNet Core\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+C:\Desktop\Full Stack Developement SDGKU\FSDI Session 110 DotNet Core\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+C:\Desktop\Full Stack Developement SDGKU\FSDI Session 110 DotNet Core\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+C:\Desktop\Full Stack Developement SDGKU\FSDI Session 110 DotNet Core\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
