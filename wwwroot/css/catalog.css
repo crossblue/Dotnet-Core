@@ -1,0 +1,47 @@
+body{
+
+    background-image: url(https://thewallpaper.co//wp-content/uploads/2016/02/expensive-cars-tires-metallic-colors-road-hd-car-images-free-images-speedy-motors-car-background-1920x1200.jpg);
+  }
+
+.item{
+    display: inline-block;
+    width: 33%;
+    border: 1px solid #969697;
+    padding: 18px;
+    margin-bottom: 2em;
+    margin-right: 2em;
+    background-color: black;
+    color: white;
+
+    
+    
+    
+}
+
+.image{
+    display: block;
+    width: 100%;
+    height: auto;
+    padding-bottom: 1em;
+
+}
+
+#ihead{
+
+    color:rgb(255, 166, 0);
+}
+
+.items{
+    display:inline-block;
+    height: auto;
+    width: auto;
+    padding: 4px;
+    border-right: 1px solid #969697;
+    border-left: 1px solid #969697; ;
+
+}
+
+#spage{
+    color:rgb(255, 166, 0);
+    
+}
